@@ -1,10 +1,5 @@
-# File hasil kompilasi
-hostpress
+# Build-time scratch files
+*.tmp
+*.part
 
-# File sementara
-hosts.raw
-hosts.combined
-hosts.temp
-
-# File hasil akhir (akan diunggah sebagai rilis)
-hosts
+# Generated output is intentionally tracked; the workflow commits it.

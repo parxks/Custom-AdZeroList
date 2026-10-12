@@ -1,0 +1,23 @@
+# comments are allowed
+Example.COM.
+example.com
+A.Example.com
+b.example.com
+foo.a.example.com
+sub.other.com
+other.com.
+foo-.example.com
+foo_bar.example.com
+||bad-filter.example^
+https://bad-url.example/
+0.0.0.0
+123.456
+localhost
+foo.internal
+foo.local
+x.home.arpa
+reverse.in-addr.arpa
+singlelabel
+com
+A-B.good-example.net
+XN--EXAMPLE-9D0B.COM.
